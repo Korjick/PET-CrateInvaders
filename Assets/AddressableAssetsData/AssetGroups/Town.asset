@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Town
+  m_EditorClassIdentifier: 
+  m_GroupName: Town
+  m_Data:
+    m_SerializedData: []
+  m_GUID: a9790a8ce610df849bc035808a61d582
+  m_SerializeEntries:
+  - m_GUID: 39aeeec3d3ee6e64696d2bf613b17b8a
+    m_Address: Town
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04a74072c2ecb3a4aa5fc9ce75719e67
+    m_Address: Town
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - remote
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 24261659411d25b4a875f353f307cdab, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9e0fcc9d00fbff54c89f5199c32c7e14, type: 2}
+    - {fileID: 11400000, guid: 3c7499771555d534280106287ed07065, type: 2}

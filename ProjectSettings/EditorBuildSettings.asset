@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Boot.unity
+    guid: 583300b3b13a419469d3902a25d43657
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: b5ee4f9fe71b45743bcd6bd71ba2d213
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: b0f903bc9486a184897b477eed37f33e
+  - enabled: 0
+    path: Assets/Scenes/Cemetery.unity
+    guid: bb7957e932cdb98499356e92ebb2ceda
+  - enabled: 0
+    path: Assets/Scenes/Church.unity
+    guid: fed3f0c963ba9424b896fbcdafeab70e
+  - enabled: 0
+    path: Assets/Scenes/Town.unity
+    guid: 04a74072c2ecb3a4aa5fc9ce75719e67
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: d132a60f4881549478912b318bf49561,
+      type: 2}

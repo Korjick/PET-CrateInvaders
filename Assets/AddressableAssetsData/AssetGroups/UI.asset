@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: acc841befd061204c8d092f0bab860e3
+  m_SerializeEntries:
+  - m_GUID: e9f693669af91aa45ad615fc681ed29f
+    m_Address: Assets/ResourcesAddressable/UI/TextMeshPro/Shaders
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0603b6d5186471b96c778c3949c7ce2
+    m_Address: Assets/ResourcesAddressable/UI/TextMeshPro/Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ab70aee4d56447429c680537fbf93ed
+    m_Address: Assets/ResourcesAddressable/UI/TextMeshPro/Fonts
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 731f1baa9d144a9897cb1d341c2092b8
+    m_Address: Fonts & Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 512a49d95c0c4332bdd98131869c23c9
+    m_Address: Sprite Assets
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4aecb92fff08436c8303b10eab8da368
+    m_Address: Style Sheets
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8d55b4da5fd84cc681f8c91ca0fb0b9
+    m_Address: Assets/ResourcesAddressable/UI/UI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 24261659411d25b4a875f353f307cdab, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c1ed8c0caa636244f8e2d7930339930b, type: 2}
+    - {fileID: 11400000, guid: e46f3f684a507f642b620fac0384acff, type: 2}
